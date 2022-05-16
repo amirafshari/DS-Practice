@@ -1,2 +1,2 @@
-# Data Science Practice
+# Practice
 practice, practice, practice
